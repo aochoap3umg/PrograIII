@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoArbol", "DemoArbol\DemoArbol.csproj", "{7954684E-A2DC-423D-AF0A-E4325FF946F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PresentacionDemoArbol", "PresentacionDemoArbol\PresentacionDemoArbol.csproj", "{6E013E9C-5C01-4C56-9040-A6B829879EAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7954684E-A2DC-423D-AF0A-E4325FF946F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7954684E-A2DC-423D-AF0A-E4325FF946F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7954684E-A2DC-423D-AF0A-E4325FF946F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7954684E-A2DC-423D-AF0A-E4325FF946F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E013E9C-5C01-4C56-9040-A6B829879EAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E013E9C-5C01-4C56-9040-A6B829879EAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E013E9C-5C01-4C56-9040-A6B829879EAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E013E9C-5C01-4C56-9040-A6B829879EAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {925907BC-50B6-433B-BED8-F26D8483DA7F}
+	EndGlobalSection
+EndGlobal

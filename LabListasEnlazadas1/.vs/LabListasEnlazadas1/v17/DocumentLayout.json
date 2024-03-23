@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alejandro\\Documents\\UMG\\022 - Programacion III\\Proyectos\\LabListasEnlazadas1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8213C8B0-104F-4593-8C90-B9DD61AEB601}|LabListasEnlazadas1\\LabListasEnlazadas1.csproj|c:\\users\\alejandro\\documents\\umg\\022 - programacion iii\\proyectos\\lablistasenlazadas1\\lablistasenlazadas1\\frmlaboratoriolistas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8213C8B0-104F-4593-8C90-B9DD61AEB601}|LabListasEnlazadas1\\LabListasEnlazadas1.csproj|solutionrelative:lablistasenlazadas1\\frmlaboratoriolistas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8213C8B0-104F-4593-8C90-B9DD61AEB601}|LabListasEnlazadas1\\LabListasEnlazadas1.csproj|C:\\Users\\Alejandro\\Documents\\UMG\\022 - Programacion III\\Proyectos\\LabListasEnlazadas1\\lablistasenlazadas1\\frmlaboratoriolistas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8213C8B0-104F-4593-8C90-B9DD61AEB601}|LabListasEnlazadas1\\LabListasEnlazadas1.csproj|solutionrelative:lablistasenlazadas1\\frmlaboratoriolistas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Alejandro\\Documents\\UMG\\022 - Programacion III\\Proyectos\\LabListasEnlazadas1\\estructurasdedatos\\listaenlazada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:estructurasdedatos\\listaenlazada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Alejandro\\Documents\\UMG\\022 - Programacion III\\Proyectos\\LabListasEnlazadas1\\estructurasdedatos\\nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:estructurasdedatos\\nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Alejandro\\Documents\\UMG\\022 - Programacion III\\Proyectos\\LabListasEnlazadas1\\capaentidades\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:capaentidades\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmLaboratorioListas.cs",
+              "DocumentMoniker": "C:\\Users\\Alejandro\\Documents\\UMG\\022 - Programacion III\\Proyectos\\LabListasEnlazadas1\\LabListasEnlazadas1\\frmLaboratorioListas.cs",
+              "RelativeDocumentMoniker": "LabListasEnlazadas1\\frmLaboratorioListas.cs",
+              "ToolTip": "C:\\Users\\Alejandro\\Documents\\UMG\\022 - Programacion III\\Proyectos\\LabListasEnlazadas1\\LabListasEnlazadas1\\frmLaboratorioListas.cs",
+              "RelativeToolTip": "LabListasEnlazadas1\\frmLaboratorioListas.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAcwD4AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T04:29:21.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmLaboratorioListas.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Alejandro\\Documents\\UMG\\022 - Programacion III\\Proyectos\\LabListasEnlazadas1\\LabListasEnlazadas1\\frmLaboratorioListas.cs",
+              "RelativeDocumentMoniker": "LabListasEnlazadas1\\frmLaboratorioListas.cs",
+              "ToolTip": "C:\\Users\\Alejandro\\Documents\\UMG\\022 - Programacion III\\Proyectos\\LabListasEnlazadas1\\LabListasEnlazadas1\\frmLaboratorioListas.cs [Design]",
+              "RelativeToolTip": "LabListasEnlazadas1\\frmLaboratorioListas.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T03:52:11.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ListaEnlazada.cs",
+              "DocumentMoniker": "C:\\Users\\Alejandro\\Documents\\UMG\\022 - Programacion III\\Proyectos\\LabListasEnlazadas1\\EstructurasDeDatos\\ListaEnlazada.cs",
+              "RelativeDocumentMoniker": "EstructurasDeDatos\\ListaEnlazada.cs",
+              "ToolTip": "C:\\Users\\Alejandro\\Documents\\UMG\\022 - Programacion III\\Proyectos\\LabListasEnlazadas1\\EstructurasDeDatos\\ListaEnlazada.cs",
+              "RelativeToolTip": "EstructurasDeDatos\\ListaEnlazada.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T04:09:33.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Nodo.cs",
+              "DocumentMoniker": "C:\\Users\\Alejandro\\Documents\\UMG\\022 - Programacion III\\Proyectos\\LabListasEnlazadas1\\EstructurasDeDatos\\Nodo.cs",
+              "RelativeDocumentMoniker": "EstructurasDeDatos\\Nodo.cs",
+              "ToolTip": "C:\\Users\\Alejandro\\Documents\\UMG\\022 - Programacion III\\Proyectos\\LabListasEnlazadas1\\EstructurasDeDatos\\Nodo.cs",
+              "RelativeToolTip": "EstructurasDeDatos\\Nodo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T03:43:32.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\Alejandro\\Documents\\UMG\\022 - Programacion III\\Proyectos\\LabListasEnlazadas1\\CapaEntidades\\Persona.cs",
+              "RelativeDocumentMoniker": "CapaEntidades\\Persona.cs",
+              "ToolTip": "C:\\Users\\Alejandro\\Documents\\UMG\\022 - Programacion III\\Proyectos\\LabListasEnlazadas1\\CapaEntidades\\Persona.cs",
+              "RelativeToolTip": "CapaEntidades\\Persona.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T03:42:53.207Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

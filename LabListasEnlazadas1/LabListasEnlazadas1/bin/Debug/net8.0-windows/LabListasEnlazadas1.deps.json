@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "LabListasEnlazadas1/1.0.0": {
+        "dependencies": {
+          "CapaEntidades": "1.0.0",
+          "EstructurasDeDatos": "1.0.0"
+        },
+        "runtime": {
+          "LabListasEnlazadas1.dll": {}
+        }
+      },
+      "CapaEntidades/1.0.0": {
+        "runtime": {
+          "CapaEntidades.dll": {}
+        }
+      },
+      "EstructurasDeDatos/1.0.0": {
+        "runtime": {
+          "EstructurasDeDatos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LabListasEnlazadas1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CapaEntidades/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EstructurasDeDatos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
